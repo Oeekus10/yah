@@ -1,0 +1,305 @@
+<<<<<<< HEAD
+Absolute Kinematics
+Advanced Peripherals
+Aeronautics Covers
+Amendments
+AppleSkin
+Architectury
+Athena
+Autumnity
+Azimuth
+BaguetteLib
+Balm
+Berry Good
+Blueprint
+CC: Deep Seas
+CC: Sable
+CC: Tweaked
+Cable Facades
+Chipped
+Clayworks
+Climbable Ropes for Create Aeronautics
+Concurrent Chunk Management Engine
+Controlling
+Corpse
+Corpse Curios Compatibility
+Crash Assistant
+Create
+Create Aeronautics
+Create Aeronautics: Encased Fluid Pipes
+Create Aeronautics: Transmission & Linkage
+Create Big Cannons
+Create Bits 'n' Bobs
+Create Crafts & Additions
+Create Deco
+Create Deep Seas
+Create Diesel Generators
+Create Encased
+Create FluidLogistics 
+Create Gadgets & Gizmos Bundled
+Create Liquid Fuel
+Create Propulsion: Simulated
+Create Tracks+
+Create: Aeroworks
+Create: Avionics
+Create: Bells & Whistles
+Create: Cardboarded Conveynience
+Create: Central Kitchen
+Create: Coasters Simulated
+Create: Colored Connections
+Create: Colored Packages
+Create: Connected
+Create: Copycats+
+Create: Deep Seas - Lava Fix
+Create: Design n' Decor - Aeronautics Compat
+Create: Dragons Plus
+Create: EMI Schematics
+Create: Enchantment Industry
+Create: Extra Gauges
+Create: Integrated Farming
+Create: Interiors
+Create: Oxidized
+Create: Sound of Steam
+Create: Sound of Steam: Tuning Wrench
+Create: Steam 'n' Rails 1.21.1
+Create: Tweaked Controllers
+Create: Ultimate Factory
+Create: Vibrant Vaults
+Create:Schematic Checker
+CreateBetterFps
+Curios API
+Deployer
+Design n' Decor
+Drive-By-Sable
+Dye Depot
+Dye The World!
+EMI
+Enderscape
+EntityCulling
+Every Compat
+Exposure
+FancyMenu
+Farmer's Delight
+Ferrite Core
+Gallery
+GlitchCore
+Iris
+Iris Flywheel Compat
+Jade
+Jade Addons
+Jade Sable Compat
+Joy of Painting
+Just Enough Items
+Konkrete
+Kotlin for Forge
+LambDynamicLights
+Lithium
+Lithostitched
+Melody
+MezzConfig
+ModernFix
+Modpack Update Checker
+Moonlight Lib
+Mouse Tweaks
+NetherPortalFix
+Noisium
+PacketFixer
+Personality
+Platform
+Polymorph
+Quark
+Quark Backported
+QuarkPonders
+Resourceful Lib
+Resourcefulconfig
+Ritchie's Projectile Library
+Sable
+Sable Beyond
+Sable Fix Mod
+Sable Sublevels on Xaero's Maps
+Sable: Far and Wide
+Sable: Physics Compat
+Saero
+Searchables
+Serene Seasons
+Simple Voice Chat
+Simulated Gauges
+Sodium
+Sophisticated Backpacks
+Sophisticated Backpacks Create Integration
+Sophisticated Core
+Sophisticated Storage
+Sophisticated Storage Create Integration
+Starcatcher
+Starcatcher's Delight
+Structure Layout Optimizer
+Strut Your Stuff
+Supplementaries
+Tectonic
+Trimmed
+VS Hose Connectors
+Vanilla Backport Compat
+VanillaBackport
+Windswept
+Windswept Delights
+Windswept x Vanilla Backport Mob Variant Compat
+Xaero's Minimap
+Xaero's World Map
+YetAnotherConfigLib
+You've Goat to be kidding me
+Zeta
+aero_copycats
+lever drugster
+=======
+Absolute Kinematics
+Advanced Peripherals
+Aeronautics Covers
+Amendments
+AppleSkin
+Architectury
+Athena
+Autumnity
+Azimuth
+BaguetteLib
+Balm
+Berry Good
+Blueprint
+CC: Deep Seas
+CC: Sable
+CC: Tweaked
+Cable Facades
+Chipped
+Clayworks
+Climbable Ropes for Create Aeronautics
+Concurrent Chunk Management Engine
+Controlling
+Corpse
+Corpse Curios Compatibility
+Crash Assistant
+Create
+Create Aeronautics
+Create Aeronautics: Encased Fluid Pipes
+Create Aeronautics: Transmission & Linkage
+Create Big Cannons
+Create Bits 'n' Bobs
+Create Crafts & Additions
+Create Deco
+Create Deep Seas
+Create Diesel Generators
+Create Encased
+Create FluidLogistics 
+Create Gadgets & Gizmos Bundled
+Create Liquid Fuel
+Create Propulsion: Simulated
+Create Tracks+
+Create: Aeroworks
+Create: Avionics
+Create: Bells & Whistles
+Create: Cardboarded Conveynience
+Create: Central Kitchen
+Create: Coasters Simulated
+Create: Colored Connections
+Create: Colored Packages
+Create: Connected
+Create: Copycats+
+Create: Deep Seas - Lava Fix
+Create: Design n' Decor - Aeronautics Compat
+Create: Dragons Plus
+Create: EMI Schematics
+Create: Enchantment Industry
+Create: Extra Gauges
+Create: Integrated Farming
+Create: Interiors
+Create: Oxidized
+Create: Sound of Steam
+Create: Sound of Steam: Tuning Wrench
+Create: Steam 'n' Rails 1.21.1
+Create: Tweaked Controllers
+Create: Ultimate Factory
+Create: Vibrant Vaults
+Create:Schematic Checker
+CreateBetterFps
+Curios API
+Deployer
+Design n' Decor
+Drive-By-Sable
+Dye Depot
+Dye The World!
+EMI
+Enderscape
+EntityCulling
+Every Compat
+Exposure
+FancyMenu
+Farmer's Delight
+Ferrite Core
+Gallery
+GlitchCore
+Iris
+Iris Flywheel Compat
+Jade
+Jade Addons
+Jade Sable Compat
+Joy of Painting
+Just Enough Items
+Konkrete
+Kotlin for Forge
+LambDynamicLights
+Lithium
+Lithostitched
+Melody
+MezzConfig
+ModernFix
+Modpack Update Checker
+Moonlight Lib
+Mouse Tweaks
+NetherPortalFix
+Noisium
+PacketFixer
+Personality
+Platform
+Polymorph
+Quark
+Quark Backported
+QuarkPonders
+Resourceful Lib
+Resourcefulconfig
+Ritchie's Projectile Library
+Sable
+Sable Beyond
+Sable Fix Mod
+Sable Sublevels on Xaero's Maps
+Sable: Far and Wide
+Sable: Physics Compat
+Saero
+Searchables
+Serene Seasons
+Simple Voice Chat
+Simulated Gauges
+Sodium
+Sophisticated Backpacks
+Sophisticated Backpacks Create Integration
+Sophisticated Core
+Sophisticated Storage
+Sophisticated Storage Create Integration
+Starcatcher
+Starcatcher's Delight
+Structure Layout Optimizer
+Strut Your Stuff
+Supplementaries
+Tectonic
+Trimmed
+VS Hose Connectors
+Vanilla Backport Compat
+VanillaBackport
+Windswept
+Windswept Delights
+Windswept x Vanilla Backport Mob Variant Compat
+Xaero's Minimap
+Xaero's World Map
+YetAnotherConfigLib
+You've Goat to be kidding me
+Zeta
+aero_copycats
+lever drugster
+>>>>>>> 531ef74acf6badd1a13c6a0c79766710d342c793

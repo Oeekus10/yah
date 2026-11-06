@@ -1,0 +1,15 @@
+[gameplay]
+	#Consume one dye per dyeing action in survival mode
+	#(one dye per action, not per link, when path dyeing)
+	#Default false: colors are free organizational tags
+	dyeConsumption = false
+
+[feedback]
+	#Dye ingredient wires inside the Factory Controller GUI:
+	#pick a dye up onto the cursor and right-click the wire
+	#(a dye held in the main hand also works)
+	#(Create: Factory Controller integration; no effect without the mod)
+	factoryControllerDyeing = true
+	#Play the gauge-link sound and dye-colored particles
+	#when a link is dyed
+	dyeEffects = true
